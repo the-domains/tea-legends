@@ -1,4 +1,3 @@
-layout_spectrum: 0.6884920524898916
 typography_spectrum: 0.7075904798693955
 color:
   brandStrength: 0.8670250070281327
@@ -6,9 +5,14 @@ color:
   saturation: 0.11197344935499132
   rhythmicContrast: 0.9547619975637645
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.6884920524898916
+author:
+  name: Alexander Brill
+  email: alex@tealegends.com
 name: Tea Legends
+title: In search of legendary tea
